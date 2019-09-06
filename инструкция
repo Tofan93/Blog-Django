@@ -19,3 +19,7 @@ models.DateTimeField — дата и время.
 models.ForeignKey — ссылка на другую модель.
 
 администрировании Django официальная документация: https://docs.djangoproject.com/en/1.11/ref/contrib/admin/.
+
+https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/ -советы по безопасности
+
+http://help.pythonanywhere.com/pages/DebuggingImportError - советы по отладке
