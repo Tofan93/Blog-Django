@@ -23,3 +23,5 @@ models.ForeignKey — ссылка на другую модель.
 https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/ -советы по безопасности
 
 http://help.pythonanywhere.com/pages/DebuggingImportError - советы по отладке
+
+Post.objects.create(author=me, title='Sample title', text='Test') - создать объект через терминал
